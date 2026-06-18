@@ -1,6 +1,6 @@
 {
   "name": "notion-exporter",
-  "version": "0.1.19",
+  "version": "0.1.20",
   "description": "CLI and library for exporting .md and .csv files from any Notion page.",
   "main": "src/index.ts",
   "scripts": {
